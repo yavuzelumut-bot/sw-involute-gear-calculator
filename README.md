@@ -41,7 +41,7 @@ The "Global Release" marks a significant leap from the initial version.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yavuzelumut-bot/sw-involute-gear-calculator.git](https://github.com/yavuzelumut-bot/sw-involute-gear-calculator.git)
+    git clone [https://github.com/yavuzelumut-bot/sw-involute-gear-calculator.git](https://github.com/umt9/sw-involute-gear-calculator.git)
     ```
 2.  **Install dependencies:**
     ```bash
@@ -72,4 +72,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### 🤝 Contact
 
-Project Link: [https://github.com/yavuzelumut-bot/sw-involute-gear-calculator](https://github.com/yavuzelumut-bot/sw-involute-gear-calculator)
+Project Link: [https://github.com/umt9/sw-involute-gear-calculator](https://github.com/umt9/sw-involute-gear-calculator)
